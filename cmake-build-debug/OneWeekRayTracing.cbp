@@ -83,6 +83,9 @@
 		<Unit filename="/Users/yvettemuki/Documents/code/OneWeekRayTracing/main.cpp">
 			<Option target="OneWeekRayTracing"/>
 		</Unit>
+		<Unit filename="/Users/yvettemuki/Documents/code/OneWeekRayTracing/vec3.h">
+			<Option target="OneWeekRayTracing"/>
+		</Unit>
 		<Unit filename="/Users/yvettemuki/Documents/code/OneWeekRayTracing/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
