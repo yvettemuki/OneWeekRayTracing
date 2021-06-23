@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/yvettemuki/Documents/code/OneWeekRayTracing/color.h">
+			<Option target="OneWeekRayTracing"/>
+		</Unit>
 		<Unit filename="/Users/yvettemuki/Documents/code/OneWeekRayTracing/main.cpp">
 			<Option target="OneWeekRayTracing"/>
 		</Unit>
