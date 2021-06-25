@@ -3,5 +3,6 @@
 
 CMakeFiles/OneWeekRayTracing.dir/main.cpp.o: ../color.h
 CMakeFiles/OneWeekRayTracing.dir/main.cpp.o: ../main.cpp
+CMakeFiles/OneWeekRayTracing.dir/main.cpp.o: ../ray.h
 CMakeFiles/OneWeekRayTracing.dir/main.cpp.o: ../vec3.h
 

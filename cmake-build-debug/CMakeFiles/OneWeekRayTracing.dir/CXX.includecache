@@ -17,8 +17,14 @@ color.h
 /Users/yvettemuki/Documents/code/OneWeekRayTracing/color.h
 vec3.h
 /Users/yvettemuki/Documents/code/OneWeekRayTracing/vec3.h
+ray.h
+/Users/yvettemuki/Documents/code/OneWeekRayTracing/ray.h
 iostream
 -
+
+/Users/yvettemuki/Documents/code/OneWeekRayTracing/ray.h
+vec3.h
+/Users/yvettemuki/Documents/code/OneWeekRayTracing/vec3.h
 
 /Users/yvettemuki/Documents/code/OneWeekRayTracing/vec3.h
 cmath
