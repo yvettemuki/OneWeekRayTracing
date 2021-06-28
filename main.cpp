@@ -37,7 +37,7 @@ int main() {
     auto origin = point3(0, 0, 0);
     auto horizontal = vec3(viewport_width, 0, 0);
     auto vertical = vec3(0, viewport_height, 0);
-    auto lower_left_corner = origin - horizontal - vertical - vec3(0, 0, focal_length);
+    auto lower_left_corner = origin - horizontal/2 - vertical/2 - vec3(0, 0, focal_length);
 
     // Render
     std::cout << "P3\n" << image_width << ' ' << image_height << "\n255\n";
