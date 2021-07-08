@@ -33,6 +33,7 @@ bool sphere::hit(const ray &r, double t_min, double t_max, hit_record &rec) cons
     auto sqrtd = sqrt(discriminant);
 
     // Find the nearest root that lies in the acceptable range.
+    // For depth test
     auto root = (-half_b - sqrtd) / a;
     if (root < t_min || root > t_max) {
         root = (-half_b + sqrtd)  / a;
