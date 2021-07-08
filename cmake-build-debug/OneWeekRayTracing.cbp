@@ -86,10 +86,16 @@
 		<Unit filename="/Users/yvettemuki/Documents/code/OneWeekRayTracing/hittable.h">
 			<Option target="OneWeekRayTracing"/>
 		</Unit>
+		<Unit filename="/Users/yvettemuki/Documents/code/OneWeekRayTracing/hittable_list.h">
+			<Option target="OneWeekRayTracing"/>
+		</Unit>
 		<Unit filename="/Users/yvettemuki/Documents/code/OneWeekRayTracing/main.cpp">
 			<Option target="OneWeekRayTracing"/>
 		</Unit>
 		<Unit filename="/Users/yvettemuki/Documents/code/OneWeekRayTracing/ray.h">
+			<Option target="OneWeekRayTracing"/>
+		</Unit>
+		<Unit filename="/Users/yvettemuki/Documents/code/OneWeekRayTracing/rtweekend.h">
 			<Option target="OneWeekRayTracing"/>
 		</Unit>
 		<Unit filename="/Users/yvettemuki/Documents/code/OneWeekRayTracing/sphere.h">
