@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+/Users/yvettemuki/Documents/code/OneWeekRayTracing/camera.h
+rtweekend.h
+/Users/yvettemuki/Documents/code/OneWeekRayTracing/rtweekend.h
+
 /Users/yvettemuki/Documents/code/OneWeekRayTracing/color.h
 vec3.h
 /Users/yvettemuki/Documents/code/OneWeekRayTracing/vec3.h
@@ -33,6 +37,8 @@ hittable_list.h
 /Users/yvettemuki/Documents/code/OneWeekRayTracing/hittable_list.h
 sphere.h
 /Users/yvettemuki/Documents/code/OneWeekRayTracing/sphere.h
+camera.h
+/Users/yvettemuki/Documents/code/OneWeekRayTracing/camera.h
 iostream
 -
 
@@ -46,6 +52,8 @@ cmath
 limits
 -
 memory
+-
+cstdlib
 -
 ray.h
 /Users/yvettemuki/Documents/code/OneWeekRayTracing/ray.h
