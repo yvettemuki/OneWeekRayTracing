@@ -95,6 +95,9 @@
 		<Unit filename="/Users/yvettemuki/Documents/code/OneWeekRayTracing/main.cpp">
 			<Option target="OneWeekRayTracing"/>
 		</Unit>
+		<Unit filename="/Users/yvettemuki/Documents/code/OneWeekRayTracing/material.h">
+			<Option target="OneWeekRayTracing"/>
+		</Unit>
 		<Unit filename="/Users/yvettemuki/Documents/code/OneWeekRayTracing/ray.h">
 			<Option target="OneWeekRayTracing"/>
 		</Unit>
