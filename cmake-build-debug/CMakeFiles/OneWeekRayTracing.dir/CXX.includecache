@@ -19,6 +19,8 @@ iostream
 /Users/yvettemuki/Documents/code/OneWeekRayTracing/hittable.h
 ray.h
 /Users/yvettemuki/Documents/code/OneWeekRayTracing/ray.h
+rtweekend.h
+/Users/yvettemuki/Documents/code/OneWeekRayTracing/rtweekend.h
 
 /Users/yvettemuki/Documents/code/OneWeekRayTracing/hittable_list.h
 hittable.h
@@ -39,8 +41,14 @@ sphere.h
 /Users/yvettemuki/Documents/code/OneWeekRayTracing/sphere.h
 camera.h
 /Users/yvettemuki/Documents/code/OneWeekRayTracing/camera.h
+material.h
+/Users/yvettemuki/Documents/code/OneWeekRayTracing/material.h
 iostream
 -
+
+/Users/yvettemuki/Documents/code/OneWeekRayTracing/material.h
+rtweekend.h
+/Users/yvettemuki/Documents/code/OneWeekRayTracing/rtweekend.h
 
 /Users/yvettemuki/Documents/code/OneWeekRayTracing/ray.h
 vec3.h

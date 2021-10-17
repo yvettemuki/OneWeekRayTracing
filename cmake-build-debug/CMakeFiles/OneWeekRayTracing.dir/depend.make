@@ -6,6 +6,7 @@ CMakeFiles/OneWeekRayTracing.dir/main.cpp.o: ../color.h
 CMakeFiles/OneWeekRayTracing.dir/main.cpp.o: ../hittable.h
 CMakeFiles/OneWeekRayTracing.dir/main.cpp.o: ../hittable_list.h
 CMakeFiles/OneWeekRayTracing.dir/main.cpp.o: ../main.cpp
+CMakeFiles/OneWeekRayTracing.dir/main.cpp.o: ../material.h
 CMakeFiles/OneWeekRayTracing.dir/main.cpp.o: ../ray.h
 CMakeFiles/OneWeekRayTracing.dir/main.cpp.o: ../rtweekend.h
 CMakeFiles/OneWeekRayTracing.dir/main.cpp.o: ../sphere.h
