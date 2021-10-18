@@ -45,7 +45,7 @@ bool sphere::hit(const ray &r, double t_min, double t_max, hit_record &rec) cons
 
     rec.t = root;
     rec.p = r.at(rec.t);
-    vec3 outward_normal = (rec.p - center) / radius;  // normalize
+    vec3 outward_normal = (rec.p - center) / radius;  // normalize (trick: if radius<0 (minus), then normal will point inward)
     rec.set_face_normal(r, outward_normal);  // normal is always opposite to the ray
     rec.mat_ptr = mat_ptr;
 
